@@ -1,0 +1,9 @@
+Zernio => Your frontend and backend handle your application, while Zernio handles the connection to social platforms.
+Zernio provides a unified API so you don't have to build and maintain separate integrations for every platform.
+Social media API for developers and AI agents.
+
+
+CodeRabbit => CodeRabbit is used in a web-development project mainly for automated code review and finding bugs/issues in your code.
+Think of it as an AI code reviewer that checks your code after you make changes, especially in GitHub pull requests. It can analyze the codebase and provide context-aware feedback and suggestions.
+
+
