@@ -59,7 +59,7 @@ The platform combines AI content generation, AI image generation, cloud media st
 
 The dashboard provides an overview of scheduled posts, published posts, connected social accounts, and recent activity.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](
 
 ---
 
@@ -67,7 +67,7 @@ The dashboard provides an overview of scheduled posts, published posts, connecte
 
 Users can connect and manage their social media accounts from one place.
 
-![Social Media Accounts](screenshots/social-accounts.png)
+![Social Media Accounts]
 
 ---
 
@@ -75,7 +75,7 @@ Users can connect and manage their social media accounts from one place.
 
 Users can select social platforms, write content, upload media, and schedule posts for a specific date and time.
 
-![Post Scheduler](screenshots/post-scheduler.png)
+![Post Scheduler]
 
 ---
 
@@ -83,7 +83,7 @@ Users can select social platforms, write content, upload media, and schedule pos
 
 The AI Composer generates social media content based on the user's idea and selected writing style. It can also generate AI images.
 
-![AI Composer](screenshots/ai-composer.png)
+![AI Composer]
 
 ---
 
@@ -91,7 +91,7 @@ The AI Composer generates social media content based on the user's idea and sele
 
 The application uses MongoDB for storing application data such as users, posts, connected accounts, and activities.
 
-![MongoDB Database](screenshots/mongodb-database.png)
+![MongoDB Database]
 
 > **Security note:** The screenshot is included for project documentation only. Never expose your MongoDB credentials, connection strings, or API keys in the repository.
 
